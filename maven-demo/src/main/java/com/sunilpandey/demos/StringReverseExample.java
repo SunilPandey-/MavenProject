@@ -4,6 +4,23 @@ public class StringReverseExample {
 
 	
 	public static void main(String args[]) {
+		
+		
+		/*Prerequisite : String vs StringBuilder vs StringBuffer in Java
+
+		Following are some interesting facts about String and StringBuffer classes :
+	1. Objects of String are immutable. if you try to alter their values, 
+		another object gets created, whereas StringBuffer and StringBuilder are mutable 
+		so they can change their values
+	2. String class in Java does not have reverse() method, 
+		however StringBuilder class has built in reverse() method.
+	3. StringBuilder class do not have toCharArray() method,
+		while String class does have toCharArray() method.*/
+		
+		/*It is recommended to use StringBuilder whenever possible
+		because it is faster than StringBuffer. However, 
+		if the thread safety is necessary, the best option is StringBuffer objects.*/
+		
 
         //original string
         String str = "Sunil pandey is a good boy";
