@@ -1,4 +1,11 @@
 com\sunilpandey\demos\App.class
+com\sunilpandey\demos\ReverseNumber.class
 com\sunilpandey\demos\StringReverseExample.class
 com\sunilpandey\demos\DuplicateNumber.class
+com\sunilpandey\demos\Test.class
+com\sunilpandey\demos\RepeatedWordInFile.class
+com\sunilpandey\demos\FindMiddleIndex.class
+com\sunilpandey\demos\PerfectNumber.class
+com\sunilpandey\demos\Singletonclass.class
 com\sunilpandey\demos\HelloWorld.class
+com\sunilpandey\demos\SingletonDemo.class
